@@ -68,5 +68,4 @@ Building a full-stack AI chatbot is a rewarding project that provides insights i
 
 Feel free to explore the complete project repository on [My Github](https://github.com/vikasharma005/Fullstack-AI-Chatbot/) to get started!
 
-Created: August 01, 2023
-Author: Vikas Sharma
+Author: Rahul Singhal
