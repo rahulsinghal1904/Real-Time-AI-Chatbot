@@ -66,6 +66,5 @@ This intermediate full-stack software development project will guide you through
 
 Building a full-stack AI chatbot is a rewarding project that provides insights into various development aspects. By following this tutorial, you will gain valuable experience in designing architecture, implementing APIs, working with AI models, handling real-time communication, and more.
 
-Feel free to explore the complete project repository on [My Github](https://github.com/vikasharma005/Fullstack-AI-Chatbot/) to get started!
 
 Author: Rahul Singhal
