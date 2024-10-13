@@ -32,7 +32,7 @@ class GPT:
         self.payload["inputs"] = f"{input} Bot:"
         data = json.dumps(self.payload)
         response = requests.request(
-            "POST", self.url, headers=self.headers, data=data)
+            "POST", self.url, headers=self.headers, data=data, timeout=60)
         data = json.loads(response.content.decode("utf-8"))
         print(data)
 
