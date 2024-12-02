@@ -4,7 +4,7 @@
 
 ## Introduction
 
-In this tutorial, we will walk you through the process of building a full-stack AI chatbot. The application will utilize the power of GPT-J-6B, a generative language model, to provide intelligent responses to user queries in real-time. We will use Redis to store and retrieve chat data efficiently, React for building the user interface, and FastAPI with WebSockets to handle the backend chat server.
+The application utilizes the power of GPT-J-6B, a generative language model, to provide intelligent responses to user queries in real-time. I used Redis to store and retrieve chat data efficiently, React for building the user interface, and FastAPI with WebSockets to handle the backend chat server.
 
 **Important Note:**
 This project requires some basic knowledge of Python and JavaScript.
@@ -62,9 +62,6 @@ This intermediate full-stack software development project will guide you through
 5. **Bringing It All Together**
    - Integrate the frontend and backend components to create a fully functional AI chatbot.
 
-## Conclusion
-
-Building a full-stack AI chatbot is a rewarding project that provides insights into various development aspects. By following this tutorial, you will gain valuable experience in designing architecture, implementing APIs, working with AI models, handling real-time communication, and more.
 
 
 Author: Rahul Singhal
